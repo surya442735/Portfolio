@@ -311,7 +311,7 @@ section.education {
   display: grid;
   grid-template-columns: 1fr; /* A single column layout */
   gap: 2rem; /*Space between each education entry*/
-  width: 1500px;
+  width: 1000px;
   margin: 0 auto; /* Center the container */
 }
 
